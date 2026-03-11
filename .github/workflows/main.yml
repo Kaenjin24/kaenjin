@@ -1,4 +1,4 @@
-name: kaenjin
+name: Verified Agent Identity
 
 on:
   workflow_dispatch:
